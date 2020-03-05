@@ -1,4 +1,0 @@
-ip-172-31-93-184.ec2.internal
-info
-security-credentials/
-webservers
