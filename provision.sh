@@ -20,6 +20,7 @@ OPTIONS:
 	-r | --remove Stop Ngnix service, delete Nginx website document, and uninstall Nginx software package
 	-v | --version Display the version of the script
 	-h | --help Display the command help
+	no argument Configures the instance to start Nginx webserver 
 Examples:
 	Stop Ngnix service, delte website document, and uninstall Nginx software:
 		$ ${0} -r
